@@ -2,7 +2,6 @@ The public key to the build server, behind SSl, so you can verify the nightly bi
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1.4.14
-
 mQINBFMDoHcBEADjlTikHSEEK6whRU0cK7XFWEdb46NdR9RdySeIEfmCwhLTiNI5
 S0JwhFz4sKRNIydIrBvTcJh7WKzH6nrxGzAROrEkDU7NQ/1zox/xhH9IUdAD4Zl1
 fR+pvIP8X55DkLpb0GUrm+wkpmK3hOGeWEFiF3ssDvRkLev9jWNr7dKc+zyOC1j8
